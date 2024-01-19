@@ -35,7 +35,8 @@ Visualization:
 - Utilize heatmaps, bar graphs, scatter plots, and more to represent variations in sales, campaigns, and across other variables.
 
 
-## Answering Questions: (This is an open-ended analysis of the provided data to accomplish the above-mentioned project objectives.)
+## Answering Questions: 
+- (This is an open-ended analysis of the provided data to accomplish the above-mentioned project objectives.)
 - Focus on improving the performance of marketing activities, with specific attention to marketing campaigns.
 - Establish personalized approaches for different customer groups to enhance user engagement.
 
