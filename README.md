@@ -1,4 +1,6 @@
 # UFood 🍨
+![Screenshot 2024-01-18 202544](https://github.com/LPhilip-CS/UFood/assets/98559773/2510bb9c-c91e-45d9-bdde-755d2c409aae)
+
 The UFood Data Analyst Project is designed to delve beyond standard data visualization, aiming to uncover meaningful insights and establish cause-and-effect relationships within the food delivery app's user data. 
 This comprehensive exploration includes the identification of characteristic features among respondents, proposing a customer segmentation strategy based on behaviors, and leveraging visualizations to optimize marketing performance.
 
