@@ -34,7 +34,8 @@ Exploratory Data Analysis (EDA):
 Visualization:
 - Utilize heatmaps, bar graphs, scatter plots, and more to represent variations in sales, campaigns, and across other variables.
 
-![06ad43be-6d22-48cb-a1c1-fcf57cbdbc75](https://github.com/LPhilip-CS/UFood/assets/98559773/6900aa18-615c-4119-98a3-ffd![5563a880-31d9-4e50-96f6-73099e093cad](https://github.com/LPhilip-CS/UFood/assets/98559773/171361f9-765a-4899-b3a9-3e9be5011e80)
+![06ad43be-6d22-48cb-a1c1-fcf57cbdbc75](https://github.com/LPhilip-CS/UFood/assets/98559773/6900aa18-615c-4119-98a3-ffd
+![5563a880-31d9-4e50-96f6-73099e093cad](https://github.com/LPhilip-CS/UFood/assets/98559773/171361f9-765a-4899-b3a9-3e9be5011e80)
 1247121ed)
 
 
