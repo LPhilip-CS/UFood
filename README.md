@@ -56,7 +56,8 @@ Visualization:
 ![image](https://github.com/LPhilip-CS/UFood/assets/98559773/4d7e25d4-24c5-40af-86d5-a31913da06b3)
 ![image](https://github.com/LPhilip-CS/UFood/assets/98559773/63b503d0-9445-47db-a230-d7333fe4c736)
 ![image](https://github.com/LPhilip-CS/UFood/assets/98559773/60485cd6-5946-4a10-b5b9-6a2239e39604)
-  
+
+<img width="1427" alt="SCR-20240204-otzf" src="https://github.com/LPhilip-CS/UFood/assets/98559773/7ee58051-e7f6-4412-b524-65220a139163">
 
 ## Feedback and Support:
 - Share your feedback, suggestions, or report issues.
